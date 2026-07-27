@@ -14,7 +14,7 @@ class Solution {
         if(head == null){
             return null;
         }
-
+        
         ListNode temp = head;
 
         while(temp != null && temp.next != null){
